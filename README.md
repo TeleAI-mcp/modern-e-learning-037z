@@ -1,2 +1,3 @@
-# modern-e-learning-037z
+# Modern E Learning 037Z
+
 A repository to test GitHub automation for issue management.
